@@ -1,10 +1,6 @@
 # python3-notes
 python3 notes
 
-
-## python learning materials
-## python3 学习资料
-
 ## 目录结构
 
 * 🔜🔜🔜  START
