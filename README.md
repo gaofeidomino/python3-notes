@@ -64,6 +64,7 @@ python3 notes
 * |    |----use_property.py        《使用@property》
 * |    |----multiple_inherit.py    《多重继承》
 * |    |----customize.py           《定制类》
+* |    |----use_enum.py            《使用枚举类》
 * |
 * |
 * |----SAMPLES  《样品》
