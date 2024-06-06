@@ -59,10 +59,6 @@ python3 notes
 * |    |----instance&class_property.py     《实例属性和类属性》
 * |
 * |
-* |----error debug test  《错误 调试 测试》
-* |    |----desc.py   《描述error debug test》
-* |
-* |
 * |----oop advanced  《面向对象高级编程》
 * |    |----use_slot.py            《使用__slots__》
 * |    |----use_property.py        《使用@property》
@@ -70,6 +66,10 @@ python3 notes
 * |    |----customize.py           《定制类》
 * |    |----use_enum.py            《使用枚举类》
 * |    |----use_metaclass.py       《使用元类》
+* |
+* |
+* |----error debug test  《错误 调试 测试》
+* |    |----desc.py   《描述error debug test》
 * |
 * |
 * |----SAMPLES  《样品》
