@@ -65,6 +65,7 @@ python3 notes
 * |    |----multiple_inherit.py    《多重继承》
 * |    |----customize.py           《定制类》
 * |    |----use_enum.py            《使用枚举类》
+* |    |----use_metaclass.py       《使用元类》
 * |
 * |
 * |----SAMPLES  《样品》
