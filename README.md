@@ -70,6 +70,7 @@ python3 notes
 * |
 * |----error debug test  《错误 调试 测试》
 * |    |----desc.py   《描述error debug test》
+* |    |----errors.py    《错误处理》
 * |
 * |
 * |----SAMPLES  《样品》
@@ -79,5 +80,6 @@ python3 notes
 * |----EXPAND  《扩展》
 * |    |----Map_Reduce.md            《概要「MapReduce: Simplified Data Processing on Large Clusters」》
 * |    |----Built-in Functions.md    《Python 的内置函数》
+* |    |----Exception Hierarchy.md   《Python 中的常见的错误类型和继承关系》
 * 
 * 🔚🔚🔚  END
