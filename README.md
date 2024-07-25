@@ -69,8 +69,9 @@ python3 notes
 * |
 * |
 * |----error debug test  《错误 调试 测试》
-* |    |----desc.py   《描述error debug test》
+* |    |----desc.py      《描述error debug test》
 * |    |----errors.py    《错误处理》
+* |    |----debug.py     《调试》
 * |
 * |
 * |----SAMPLES  《样品》
